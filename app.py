@@ -6,7 +6,7 @@ import datetime
 
 st.set_page_config(page_title="🌤 Weather Analysis Dashboard", layout="wide")
 
-API_KEY = "7aebe6ac5127cd2c875b8bef60d7d1d5"
+API_KEY = "YOUR API KEY"
 
 @st.cache_data(ttl=600)
 def fetch_weather_data(city):
