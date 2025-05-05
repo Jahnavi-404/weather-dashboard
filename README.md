@@ -4,21 +4,21 @@ This is a Weather Dashboard web application that provides real-time weather data
 .
 Features
 
-    •	Real-time Weather Data: Fetches weather information for any city in the world.
+    Real-time Weather Data: Fetches weather information for any city in the world.
 
-    •	5-Day Forecast: Displays a 5-day weather forecast, showing temperature, humidity, and weather conditions for each day.
+    5-Day Forecast: Displays a 5-day weather forecast, showing temperature, humidity, and weather conditions for each day.
 
-    •	Weather Alerts: Generates alerts based on temperature thresholds (e.g., heatwaves and cold waves).
+    Weather Alerts: Generates alerts based on temperature thresholds (e.g., heatwaves and cold waves).
 
-    •	Responsive Interface: Clean and responsive user interface built using Streamlit.
+    Responsive Interface: Clean and responsive user interface built using Streamlit.
 
 Prerequisites
 
 Before running the project, make sure you have the following installed on your machine:
 
-      •	Python 3.x
+      Python 3.x
 
-      •	pip (Python package manager)
+      pip (Python package manager)
 
 Installation
 
