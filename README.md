@@ -1,8 +1,8 @@
-Weather Dashboard with Alerts and Forecast
+## 📊 Weather Dashboard with Alerts and Forecast
 
 This is a Weather Dashboard web application that provides real-time weather data for cities across the world. The application fetches weather data from the OpenWeatherMap API and visualizes key weather metrics such as temperature, humidity, and weather conditions. It also generates alerts for extreme weather conditions like heatwaves and cold waves
 .
-Features
+## 🚀 Features
 
     Real-time Weather Data: Fetches weather information for any city in the world.
 
@@ -12,7 +12,7 @@ Features
 
     Responsive Interface: Clean and responsive user interface built using Streamlit.
 
-Prerequisites
+## ☁️Prerequisites
 
 Before running the project, make sure you have the following installed on your machine:
 
@@ -20,7 +20,7 @@ Before running the project, make sure you have the following installed on your m
 
       pip (Python package manager)
 
-Installation
+## ✅ Installation
 
 1.Clone this repository to your local machine:
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
                   2.  Replace API_KEY in app.py with your actual API key.
 
-Usage
+## 📈 Usage
 
 1.	Run the Streamlit app:
         
@@ -62,7 +62,7 @@ Usage
   	
          3.Weather Alerts: Alerts for extreme weather conditions like heatwaves and cold    waves.
          
-Dependencies
+## 🛠️ Dependencies
 
  •	Streamlit: For building the web app.
 
